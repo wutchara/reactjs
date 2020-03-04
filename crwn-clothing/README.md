@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Necessary file
+> /src/firebase/firebase.config.js
+```
+export default {
+  apiKey: "xxxx",
+  authDomain: "xxxx",
+  databaseURL: "xxxx",
+  projectId: "xxxx",
+  storageBucket: "xxxx",
+  messagingSenderId: "xxxx",
+  appId: "xxxx"
+};
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
