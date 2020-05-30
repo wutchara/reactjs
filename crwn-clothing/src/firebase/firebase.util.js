@@ -77,3 +77,14 @@ provider.setCustomParameters({
 export const signInWithGoogle = () => auth.signInWithPopup(provider);
 
 export default firebase;
+
+// firebase config
+// export default {
+//   apiKey: "",
+//   authDomain: "",
+//   databaseURL: "",
+//   projectId: "",
+//   storageBucket: "",
+//   messagingSenderId: "",
+//   appId: ""
+// };
